@@ -12,13 +12,13 @@
   /* Background color for the entire page */
   --color-bg: #040607;
 
-  /* Background color for elevated elements like cards */
+  /* Background color for cards */
   --color-elevated: #161832;
 
   /* Main text color */
   --color-text: #ffcbcb;
 
-  /* Shadow color for elements */
+  /* Shadow color for cards */
   --shadow-color: #2e0000;
 
   /* Text color specifically for card elements */
