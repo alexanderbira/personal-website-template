@@ -26,4 +26,7 @@
 
   /* Font family used throughout the page */
   --font-family: JetBrains Mono, monospace;
+
+  /* Background image for the page. The background image should be placed under /public */
+  --background-image: url("/background.svg");
 }

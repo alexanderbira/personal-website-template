@@ -45,7 +45,7 @@ Here are some things you might want to change:
 - About me:
   - Update the `src/customisation/aboutme.ts` file
 - Background image:
-  - Replace the `src/customisation/background.svg` file
+  - Replace the `public/background.svg` file. If you want to use a different file format, update the `src/customisation/theme.css` file too
 - Theme:
   - Update the `src/customisation/theme.css` file
 - Socials:
