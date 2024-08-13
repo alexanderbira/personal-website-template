@@ -4,7 +4,7 @@ function Attribution() {
   return (
     <div className={attributionStyles.attributionContainer}>
       <span className={attributionStyles.attribution}>
-        Designed by <a href="https://github.com/alexanderbira/alexanderbira.github.io">Alex BR</a>
+        Designed by <a href="https://github.com/alexanderbira/personal-website-template">Alex BR</a>
       </span>
     </div>
   )
